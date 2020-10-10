@@ -14,19 +14,6 @@ My Site是由Docker+SpringBoot2.0+Mybatis+thymeleaf等技术实现的个人网�
 [![License](https://img.shields.io/badge/license-apache-blue.svg)](https://github.com/ZHENFENG13/My-Blog/blob/master/LICENSE)
 
 
-#### 赞赏
-**网站的持续运行需要各项基础设施的搭建，而服务期的续费和维护及各种配套服务的购买也需要一定的费用，希望朋友们给予一点支持，谢谢！**
-
-**支付宝** <img src="http://img.winterchen.com/WechatIMG329.jpeg" width = "200" height = "200" alt="zhifubao"/>  **微信** <img src="http://img.winterchen.com/WechatIMG330.jpeg" width = "200" height = "200" alt="zhifubao"/>
-
-#### 相关博客文章
-
-- [springboot+mybatis+thymeleaf+docker构建的个人站点开源项目（集成了个人主页、个人作品、个人博客](https://blog.csdn.net/winter_chen001/article/details/80266339)
-
-# Quick Start
-
-- [x]  [1.如何部署My Site](https://github.com/WinterChenS/my-site/wiki/%E5%A6%82%E4%BD%95%E9%83%A8%E7%BD%B2My-Site)
-
 # Preview
 
 **首页：**
